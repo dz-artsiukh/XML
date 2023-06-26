@@ -11,8 +11,8 @@
                       <4>Click on menu item [شركاؤنا] ([Our partners])</4>
                       <Note>The bug is also reproduced for the mobile</Note>
                 </Steps>
-                <Expected result>[Become a partner] button is translated to AR</Expected result>
-                <Actual result>[Become a partner] button isn't translated to AR</Actual result>
+                <Expected_result>[Become a partner] button is translated to AR</Expected_result>
+                <Actual_result>[Become a partner] button isn't translated to AR</Actual_result>
                 <License>ALL</License>
                 <Role>ALL</Role>
                 <Link>https://drive.google.com/file/d/1-9NZu1E58CC2n3l2r1bDMtY6V7-I92Ru/view?usp=sharing</Link>
